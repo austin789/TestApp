@@ -1,7 +1,7 @@
 ## NAME_OF_YOUR_APP_HERE
 The name of the app is AppDemo.
 ### App Description
-The app was made following the two walkthrough videos. I added a goodbye button. 
+The app was made following the two walkthrough videos. I also added a goodbye button. 
 
 ### App Walk-though
 <a href="https://imgur.com/hKAX2K1"><img src="https://i.imgur.com/hKAX2K1.gif" title="source: imgur.com" /></a>
