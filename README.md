@@ -1,7 +1,7 @@
 ## NAME_OF_YOUR_APP_HERE
 The name of the app is AppDemo.
 ### App Description
-The app was made following the two walkthrough videos. The Goodbye 👋 feature is included as a comment in the code.
+The app was made following the two walkthrough videos. I added a goodbye button. 
 
 ### App Walk-though
 <a href="https://imgur.com/hKAX2K1"><img src="https://i.imgur.com/hKAX2K1.gif" title="source: imgur.com" /></a>
@@ -17,5 +17,5 @@ The app was made following the two walkthrough videos. The Goodbye 👋 feature 
 - [x] 4. User can update the label text with custom text entered into the text field.
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [x] c. If the text field is empty, update label with default text string.
+   - [ ] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped.
